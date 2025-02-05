@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-SYNTax roeggorejopje 2187128
+SYNTax roeggorejopje 2187128 #Syntax error so this file cannot run since it auto starts a 50 gb download
 
 # print('hello')
 model_name = "bigcode/starcoder"
